@@ -26,4 +26,4 @@ jobs:
         with:
           name: Plugin
           path: |
-            ./WhoExtras/ref/WhoExtras.dll
+            ./WhoExtras/WhoExtras/ref/WhoExtras.dll
